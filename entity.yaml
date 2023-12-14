@@ -4,3 +4,8 @@ metadata:
   name: jiraaaa
   annotations:
     jira.com/project-key: "INFREQ"
+
+spec:
+type: library
+owner: Noor
+lifecycle: experimental
