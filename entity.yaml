@@ -1,6 +1,6 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  # ...
+  name: jiraaaa
   annotations:
     jira.com/project-key: "INFREQ"
